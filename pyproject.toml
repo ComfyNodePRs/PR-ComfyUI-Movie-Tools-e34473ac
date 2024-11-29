@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-movie-tools"
+description = "Movie Tools is a set of custom nodes, designed to simplify saving and loading batches of images with enhanced functionality like subfolder management and batch image handling."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/Big-Idea-Technology/ComfyUI-Movie-Tools"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "nazgut"
+DisplayName = "ComfyUI-Movie-Tools"
+Icon = ""
