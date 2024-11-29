@@ -2,6 +2,9 @@
 
 **Movie Tools** is a set of custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI), designed to simplify saving and loading batches of images with enhanced functionality like subfolder management, metadata embedding, and batch image handling.
 
+![Screenshot](screen.png)
+
+
 ## Features
 
 - **Save Images to Subfolders**  
